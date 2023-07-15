@@ -6,4 +6,5 @@ In terms of functionality, the Zomato frontend clone includes features such as r
 
 The clone project also focuses on creating an intuitive user experience, with a clean and modern design.
 
+PROJECT VIDEO : https://drive.google.com/file/d/1C9u8LBuFUx3jZxXzDDZ1MmbGVKSVlV27/view?usp=sharing
 
